@@ -1,0 +1,5 @@
+1. Convert App to microservice and copy features from user-service
+2. Move modules and start setting up the entities
+3. Setup wallet module
+4. Copy  database implementation and edit
+5. Setup wallet repository
