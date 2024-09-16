@@ -15,3 +15,15 @@ export const WalletStatus = {
     FROZEN:"FROZEN",
     CLOSED:"CLOSED",
 }
+
+export const TransactionStatus = {
+    PENDING:"PENDING",
+    COMPLETED:"COMPLETED",
+    FAILED:"FAILED",
+}
+
+export const DepositMethod = {
+    CARD:"CARD",
+    TRANSFER:"TRANSFER",
+    CRYPTO:"CRYPTO",
+}
